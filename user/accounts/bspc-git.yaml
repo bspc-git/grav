@@ -1,0 +1,11 @@
+email: brunajunkemail@gmail.com
+fullname: Bruna
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$1IohwYUs0lUCopccvxo6zuCwZ3Su6LT7GVZ0pA5ULcECjR2FssFMq
